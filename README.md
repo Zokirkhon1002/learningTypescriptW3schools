@@ -1,3 +1,3 @@
-### Learning TypeScript on W3schools.com
+# Learning TypeScript on W3schools.com
 
-# It's illustrated with understandable examples.
+### It's illustrated with understandable examples.
